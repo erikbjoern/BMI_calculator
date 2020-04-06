@@ -1,6 +1,6 @@
 # The BMI calculator
 
-Week 3 of introductory course at Craft Academy.
+*Week 3 of introductory course at Craft Academy.*
 
 **Objective:** User can calculate their weight.
 
