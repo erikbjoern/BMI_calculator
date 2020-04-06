@@ -1,7 +1,5 @@
 # The BMI calculator
 
-The user can calculate their BMI.
-
 **Objective:** create an application with the following functionality:
 
 * Input fields for weight in kg and height in cm.
