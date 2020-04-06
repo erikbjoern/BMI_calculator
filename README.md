@@ -1,4 +1,6 @@
-# BMI_calculator
+# The BMI calculator
+
+The user can calculate their BMI.
 
 **Objective:** create an application with the following functionality:
 
